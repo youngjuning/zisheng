@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/youngjuning/youngjuning/compare/@youngjuning/eslint-config-react-native@2.1.0...@youngjuning/eslint-config-react-native@2.1.1) (2025-02-16)
+
+
+### Bug Fixes
+
+* 安装 eslint prettier 相关插件 ([36352d4](https://github.com/youngjuning/youngjuning/commit/36352d4bcfe639a7be1fef5b93dd60a2565aedcd))
+
+
+
+
+
 # 2.1.0 (2025-02-16)
 
 
