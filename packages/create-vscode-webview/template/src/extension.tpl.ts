@@ -1,5 +1,5 @@
 import vscode from 'vscode';
-import { createUmiWebviewPanel } from '@zisheng/vscode-utils';
+import { createUmiWebviewPanel } from '@youngjuning/vscode-utils';
 
 let currentPanel: vscode.WebviewPanel | undefined;
 export function activate(context: vscode.ExtensionContext) {

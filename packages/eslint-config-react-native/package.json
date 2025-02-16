@@ -1,9 +1,9 @@
 {
-  "name": "@zisheng/eslint-config-react-native",
+  "name": "@youngjuning/eslint-config-react-native",
   "version": "1.0.0",
-  "description": "zisheng's react eslint config",
+  "description": "youngjuning's react eslint config",
   "keywords": [
-    "zisheng",
+    "youngjuning",
     "eslint-config",
     "typescript",
     "react"
@@ -22,18 +22,19 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/eslint-config-react-native#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-react-native#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/youngjuning/zisheng.git",
+    "url": "https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/eslint-config-react-native"
   },
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
   "dependencies": {
-    "@zisheng/eslint-config-react-typescript": "^1.0.0",
+    "@youngjuning/eslint-config-react-typescript": "^1.0.0",
     "eslint-plugin-react-native": "^3.11.0",
     "metro-react-native-babel-preset": "^0.66.2"
-  }
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

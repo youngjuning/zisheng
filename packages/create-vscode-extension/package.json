@@ -1,10 +1,10 @@
 {
-  "name": "@zisheng/create-vscode-extension",
+  "name": "@youngjuning/create-vscode-extension",
   "version": "1.0.0",
-  "description": "zisheng's vscode extension template.",
+  "description": "youngjuning's vscode extension template.",
   "keywords": [
     "vscode",
-    "zisheng",
+    "youngjuning",
     "extension"
   ],
   "files": [
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngjuning/zisheng.git",
+    "url": "git+https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/create-vscode-extension"
   },
   "author": {
@@ -36,12 +36,12 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/create-vscode-extension#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/create-vscode-extension#readme",
   "dependencies": {
-    "@zisheng/node": "^1.0.0",
-    "@zisheng/template-generator": "^1.0.0",
+    "@youngjuning/node": "^1.0.0",
+    "@youngjuning/template-generator": "^1.0.0",
     "chalk": "^4.1.1",
     "commander": "^8.0.0",
     "execa": "^5.1.1",
@@ -54,5 +54,6 @@
     "@types/fs-extra": "^9.0.12",
     "@types/inquirer": "^7.3.3",
     "@types/ora": "^3.2.0"
-  }
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

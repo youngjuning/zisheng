@@ -1,9 +1,9 @@
 {
-  "name": "@zisheng/eslint-config-typescript",
+  "name": "@youngjuning/eslint-config-typescript",
   "version": "1.0.0",
-  "description": "zisheng's typescript eslint config",
+  "description": "youngjuning's typescript eslint config",
   "keywords": [
-    "zisheng",
+    "youngjuning",
     "eslint-config",
     "typescript"
   ],
@@ -21,22 +21,23 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/eslint-config-typescript#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-config-typescript#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/youngjuning/zisheng.git",
+    "url": "https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/eslint-config-typescript"
   },
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
-    "@zisheng/eslint-config-base": "^1.0.0",
+    "@youngjuning/eslint-config-base": "^1.0.0",
     "eslint-import-resolver-typescript": "^2.5.0"
   },
   "peerDependencies": {
     "typescript": "^4.3.5"
-  }
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

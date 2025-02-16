@@ -1,15 +1,15 @@
-# @zisheng/vscode-channel
+# @youngjuning/vscode-channel
 
 ## 安装
 
 ```sh
-$ yarn install @zisheng/vscode-channel
+$ yarn install @youngjuning/vscode-channel
 ```
 
 ## 导入
 
 ```ts
-import Channel from '@zisheng/vscode-channel';
+import Channel from '@youngjuning/vscode-channel';
 ```
 
 ## 初始化

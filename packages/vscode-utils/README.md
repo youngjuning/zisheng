@@ -1,13 +1,13 @@
-# @zisheng/vscode-utils
+# @youngjuning/vscode-utils
 
 ## Install
 
 ```sh
-$ yarn install @zisheng/vscode-utils
+$ yarn install @youngjuning/vscode-utils
 ```
 
 ## Usage
 
 ```ts
-import { getUmiContent } from '@zisheng/vscode-utils';
+import { getUmiContent } from '@youngjuning/vscode-utils';
 ```

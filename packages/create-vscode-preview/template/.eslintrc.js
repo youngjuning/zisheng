@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ['@zisheng/eslint-config-react-typescript'],
+  extends: ['@youngjuning/eslint-config-react-typescript'],
   ignorePatterns: ['out', '**/*.d.ts'],
   rules: {
     'no-console': 0,

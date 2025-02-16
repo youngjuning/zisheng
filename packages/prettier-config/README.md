@@ -1,11 +1,11 @@
-# @zisheng/prettier-config
+# @youngjuning/prettier-config
 
-zisheng's prettier config
+youngjuning's prettier config
 
 ## Install
 
 ```sh
-$ yarn add @zisheng/prettier-config -D
+$ yarn add @youngjuning/prettier-config -D
 ```
 
 ## Usage
@@ -13,5 +13,5 @@ $ yarn add @zisheng/prettier-config -D
 ### .prettierrc.js
 
 ```js
-module.exports = require('@zisheng/prettier-config');
+module.exports = require('@youngjuning/prettier-config');
 ```

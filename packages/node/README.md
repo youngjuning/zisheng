@@ -1,14 +1,14 @@
-# @zisheng/node
+# @youngjuning/node
 
 ## Install
 
 ```sh
-$ yarn install @zisheng/node
+$ yarn install @youngjuning/node
 ```
 
 ## Usage
 
 ```ts
 import // module
-'@zisheng/node';
+'@youngjuning/node';
 ```

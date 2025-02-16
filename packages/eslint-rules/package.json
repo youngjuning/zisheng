@@ -1,9 +1,9 @@
 {
-  "name": "@zisheng/eslint-rules",
+  "name": "@youngjuning/eslint-rules",
   "version": "1.0.0",
-  "description": "zisheng's eslint rules",
+  "description": "youngjuning's eslint rules",
   "keywords": [
-    "zisheng",
+    "youngjuning",
     "eslint",
     "rules"
   ],
@@ -17,13 +17,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/eslint-rules#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/eslint-rules#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/youngjuning/zisheng.git",
+    "url": "https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/eslint-rules"
   },
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
-  }
+    "url": "https://github.com/youngjuning/youngjuning/issues"
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

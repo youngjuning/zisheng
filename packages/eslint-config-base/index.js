@@ -11,7 +11,7 @@ module.exports = {
         },
         ecmaVersion: 2020,
       },
-      rules: require('@zisheng/eslint-rules').javascript,
+      rules: require('@youngjuning/eslint-rules').javascript,
     },
   ],
 };

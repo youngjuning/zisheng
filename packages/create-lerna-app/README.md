@@ -1,20 +1,20 @@
-# @zisheng/create-lerna-app
+# @youngjuning/create-lerna-app
 
 ## Usage directly
 
 ```sh
-$ npx @zisheng/create-lerna-app <projectName>
+$ npx @youngjuning/create-lerna-app <projectName>
 # or
-$ npm init @zisheng/lerna-app <projectName>
+$ npm init @youngjuning/lerna-app <projectName>
 # or
-$ yarn create @zisheng/lerna-app <projectName>
+$ yarn create @youngjuning/lerna-app <projectName>
 ```
 
 ## Install before Usage
 
 ```sh
 # install
-$ npm install @zisheng/create-lerna-app -g
+$ npm install @youngjuning/create-lerna-app -g
 # usage
 $ create-lerna-app <projectName>
 # can also use in shorthand

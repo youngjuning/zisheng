@@ -59,13 +59,13 @@ const init = async () => {
   const eslintType = await prompt.run();
   const eslintConfig = `module.exports = {
   root: true,
-  extends: ['@zisheng/eslint-config-${eslintType}'],
+  extends: ['@youngjuning/eslint-config-${eslintType}'],
 };\n`;
 
   fs.writeFileSync(`${projectDir}/.eslintrc.js`, eslintConfig);
   // 安装依赖
   execa.commandSync(
-    `yarn add commitizen -D -W eslint prettier @zisheng/eslint-config-${eslintType} @zisheng/prettier-config lint-staged yorkie`,
+    `yarn add commitizen -D -W eslint prettier @youngjuning/eslint-config-${eslintType} @youngjuning/prettier-config lint-staged yorkie`,
     {
       shell: true,
       stdout: 'inherit',

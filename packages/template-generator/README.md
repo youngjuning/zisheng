@@ -1,23 +1,23 @@
-# @zisheng/template-generator
+# @youngjuning/template-generator
 
 A template generator based on handlebars.
 
 ## Install
 
 ```sh
-$ npm install @zisheng/template-generator
+$ npm install @youngjuning/template-generator
 ```
 
 OR
 
 ```sh
-$ yarn add @zisheng/template-generator
+$ yarn add @youngjuning/template-generator
 ```
 
 ## Usage
 
 ```ts
-const generator = require('@zisheng/template-generator');
+const generator = require('@youngjuning/template-generator');
 // 编译当前目录下所有符合 `**/*.tpl.*` 模式的文件
 generator(
   {
@@ -48,7 +48,7 @@ generator(
 );
 ```
 
-具体案例请查看 [@zisheng/create-vscode-extension](https://github.com/youngjuning/zisheng/tree/main/packages/create-vscode-extension)
+具体案例请查看 [@youngjuning/create-vscode-extension](https://github.com/youngjuning/youngjuning/tree/main/packages/create-vscode-extension)
 
 ## Related Links
 

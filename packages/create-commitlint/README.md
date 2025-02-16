@@ -1,20 +1,20 @@
-# @zisheng/create-commitlint
+# @youngjuning/create-commitlint
 
 ## Usage directly
 
 ```sh
-$ npx @zisheng/create-commitlint
+$ npx @youngjuning/create-commitlint
 # or
-$ npm init @zisheng/commitlint
+$ npm init @youngjuning/commitlint
 # or
-$ yarn create @zisheng/commitlint
+$ yarn create @youngjuning/commitlint
 ```
 
 ## Install before Usage
 
 ```sh
 # install
-$ npm install @zisheng/create-commitlint -g
+$ npm install @youngjuning/create-commitlint -g
 # usage
 $ create-commitlint
 ```

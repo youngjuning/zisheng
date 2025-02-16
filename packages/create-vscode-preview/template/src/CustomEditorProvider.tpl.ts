@@ -1,5 +1,5 @@
 import vscode from 'vscode';
-import { getUmiHTMLContent } from '@zisheng/vscode-utils';
+import { getUmiHTMLContent } from '@youngjuning/vscode-utils';
 
 class CustomEditorProvider implements vscode.CustomTextEditorProvider {
   static register(context: vscode.ExtensionContext): vscode.Disposable {

@@ -1,22 +1,22 @@
-# @zisheng/create-vscode-webview
+# @youngjuning/create-vscode-webview
 
 创建包含 webview 的 vscode 扩展。
 
 ## 随用随走
 
 ```sh
-$ npx @zisheng/create-vscode-webview <projectName>
+$ npx @youngjuning/create-vscode-webview <projectName>
 # 或者
-$ npm init @zisheng/vscode-webview <projectName>
+$ npm init @youngjuning/vscode-webview <projectName>
 # 或者
-$ yarn create @zisheng/vscode-webview <projectName>
+$ yarn create @youngjuning/vscode-webview <projectName>
 ```
 
 ## 全局安装
 
 ```sh
 # 安装
-$ npm install @zisheng/create-vscode-webview -g
+$ npm install @youngjuning/create-vscode-webview -g
 # 使用
 $ create-vscode-webview <projectName>
 ```
@@ -27,8 +27,8 @@ $ create-vscode-webview <projectName>
 
 ### 推荐工具
 
-- [@zisheng/vscode-utils](https://github.com/youngjuning/zisheng/tree/main/packages/vscode-utils)：vscode 扩展开发相关 utils
-- [@zisheng/vscode-channel](https://github.com/youngjuning/zisheng/tree/main/packages/vscode-channel)：vscode 和 webview 通信的 channel
+- [@youngjuning/vscode-utils](https://github.com/youngjuning/youngjuning/tree/main/packages/vscode-utils)：vscode 扩展开发相关 utils
+- [@youngjuning/vscode-channel](https://github.com/youngjuning/youngjuning/tree/main/packages/vscode-channel)：vscode 和 webview 通信的 channel
 - [vscode-nls-i18n](https://www.npmjs.com/package/vscode-nls-i18n)：支持 vscode i18n 的库
 - [axios 简单封装](https://github.com/youngjuning/juejin-me/blob/main/src/utils/axios.ts)
 

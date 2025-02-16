@@ -1,7 +1,7 @@
 require('./patch');
 
 module.exports = {
-  extends: ['@zisheng/eslint-config-base'],
+  extends: ['@youngjuning/eslint-config-base'],
   overrides: [
     {
       files: ['*.ts'],
@@ -20,8 +20,8 @@ module.exports = {
         ecmaVersion: 2020,
       },
       rules: {
-        ...require('@zisheng/eslint-rules').javascript,
-        ...require('@zisheng/eslint-rules').typescript,
+        ...require('@youngjuning/eslint-rules').javascript,
+        ...require('@youngjuning/eslint-rules').typescript,
       },
       settings: {
         'import/parsers': {

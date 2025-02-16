@@ -1,7 +1,7 @@
 require('./patch');
 
 module.exports = {
-  extends: ['@zisheng/eslint-config-react'],
+  extends: ['@youngjuning/eslint-config-react'],
   overrides: [
     {
       files: ['*.ts', '*.tsx'],
@@ -21,9 +21,9 @@ module.exports = {
         ecmaVersion: 2020,
       },
       rules: {
-        ...require('@zisheng/eslint-rules').javascript,
-        ...require('@zisheng/eslint-rules').typescript,
-        ...require('@zisheng/eslint-rules').javascriptReact,
+        ...require('@youngjuning/eslint-rules').javascript,
+        ...require('@youngjuning/eslint-rules').typescript,
+        ...require('@youngjuning/eslint-rules').javascriptReact,
       },
       settings: {
         react: {

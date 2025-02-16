@@ -1,9 +1,9 @@
 {
-  "name": "@zisheng/prettier-config",
+  "name": "@youngjuning/prettier-config",
   "version": "1.0.0",
-  "description": "zisheng's prettier config",
+  "description": "youngjuning's prettier config",
   "keywords": [
-    "zisheng",
+    "youngjuning",
     "prettier",
     "typescript"
   ],
@@ -17,13 +17,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/prettier-config#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/prettier-config#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/youngjuning/zisheng.git",
+    "url": "https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/prettier-config"
   },
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
-  }
+    "url": "https://github.com/youngjuning/youngjuning/issues"
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

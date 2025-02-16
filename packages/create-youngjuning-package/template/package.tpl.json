@@ -2,7 +2,7 @@
   "name": "{{name}}",
   "version": "{{version}}",
   "description": "{{description}}",
-  "keywords": ["zisheng"],
+  "keywords": ["youngjuning"],
   "files": ["lib"],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngjuning/zisheng.git",
+    "url": "git+https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/{{directory}}"
   },
   "author": {
@@ -26,7 +26,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/{{directory}}#readme"
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/{{directory}}#readme"
 }

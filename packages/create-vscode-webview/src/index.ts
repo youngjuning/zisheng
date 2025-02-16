@@ -6,8 +6,8 @@ import tmp from 'tmp-promise';
 import fs from 'fs-extra';
 import path from 'path';
 import ora from 'ora';
-import generator from '@zisheng/template-generator';
-import { isDirEmpty } from '@zisheng/node';
+import generator from '@youngjuning/template-generator';
+import { isDirEmpty } from '@youngjuning/node';
 
 interface IMeta {
   name: string;

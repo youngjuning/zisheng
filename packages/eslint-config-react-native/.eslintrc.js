@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@zisheng/eslint-config-react-native'],
+  extends: ['@youngjuning/eslint-config-react-native'],
 };

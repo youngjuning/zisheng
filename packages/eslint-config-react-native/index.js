@@ -1,7 +1,7 @@
 require('./patch');
 
 module.exports = {
-  extends: ['plugin:react-native/all', '@zisheng/eslint-config-react-typescript'],
+  extends: ['plugin:react-native/all', '@youngjuning/eslint-config-react-typescript'],
   env: {
     'react-native/react-native': true,
   },

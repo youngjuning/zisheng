@@ -1,15 +1,15 @@
-# @zisheng/eslint-config-react-native
+# @youngjuning/eslint-config-react-native
 
 ## Install
 
 ```sh
-$ yarn add -D @zisheng/eslint-config-react-native eslint prettier typescript @zisheng/prettier-config lint-staged yorkie
+$ yarn add -D @youngjuning/eslint-config-react-native eslint prettier typescript @youngjuning/prettier-config lint-staged yorkie
 ```
 
 ## 自动配置
 
 ```sh
-yarn create @zisheng/create-coding-style
+yarn create @youngjuning/create-coding-style
 # 类型选择 react-native
 ```
 
@@ -22,14 +22,14 @@ yarn create @zisheng/create-coding-style
 ```js
 module.exports = {
   root: true,
-  extends: ['@zisheng/eslint-config-react-native'],
+  extends: ['@youngjuning/eslint-config-react-native'],
 };
 ```
 
 ### .prettierrc.js
 
 ```js
-module.exports = require('@zisheng/prettier-config');
+module.exports = require('@youngjuning/prettier-config');
 ```
 
 ### .editorconfig

@@ -6,8 +6,8 @@
   ],
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
-    "@zisheng/eslint-config-typescript": "^1.8.1",
-    "@zisheng/prettier-config": "^1.0.3",
+    "@youngjuning/eslint-config-typescript": "^1.8.1",
+    "@youngjuning/prettier-config": "^1.0.3",
     "commitizen": "^4.2.4",
     "commitlint-config-cz": "^0.13.2",
     "cz-customizable": "^6.3.0",

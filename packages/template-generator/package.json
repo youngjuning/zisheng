@@ -1,5 +1,5 @@
 {
-  "name": "@zisheng/template-generator",
+  "name": "@youngjuning/template-generator",
   "version": "1.0.0",
   "description": "A template generator based on handlebars.",
   "keywords": [
@@ -16,14 +16,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/packages/template-generator#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/packages/template-generator#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngjuning/zisheng.git",
+    "url": "git+https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/template-generator"
   },
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -49,5 +49,6 @@
     "handlebars": "^4.7.7",
     "micromatch": "^4.0.4",
     "recursive-readdir": "^2.2.2"
-  }
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

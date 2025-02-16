@@ -1,20 +1,20 @@
-# @zisheng/create-coding-style
+# @youngjuning/create-coding-style
 
 ## Usage directly
 
 ```sh
-$ npx @zisheng/create-coding-style
+$ npx @youngjuning/create-coding-style
 # or
-$ npm init @zisheng/create-coding-style
+$ npm init @youngjuning/create-coding-style
 # or
-$ yarn create @zisheng/coding-style
+$ yarn create @youngjuning/coding-style
 ```
 
 ## Install before Usage
 
 ```sh
 # install
-$ npm install @zisheng/create-coding-style -g
+$ npm install @youngjuning/create-coding-style -g
 # usage
 $ create-coding-style
 ```

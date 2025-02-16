@@ -1,12 +1,12 @@
 {
-  "name": "@zisheng/create-vscode-webview",
+  "name": "@youngjuning/create-vscode-webview",
   "version": "1.0.0",
   "description": "Create vscode extension with webview",
   "keywords": [
     "vscode",
     "umijs",
     "webview",
-    "zisheng"
+    "youngjuning"
   ],
   "files": [
     "lib",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngjuning/zisheng.git",
+    "url": "git+https://github.com/youngjuning/youngjuning.git",
     "directory": "packages/create-vscode-webview"
   },
   "author": {
@@ -37,12 +37,12 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/create-vscode-webview#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/create-vscode-webview#readme",
   "dependencies": {
-    "@zisheng/node": "^1.0.0",
-    "@zisheng/template-generator": "^1.0.0",
+    "@youngjuning/node": "^1.0.0",
+    "@youngjuning/template-generator": "^1.0.0",
     "chalk": "^4.1.1",
     "commander": "^8.0.0",
     "execa": "^5.1.1",
@@ -55,5 +55,6 @@
     "@types/fs-extra": "^9.0.12",
     "@types/inquirer": "^7.3.3",
     "@types/ora": "^3.2.0"
-  }
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

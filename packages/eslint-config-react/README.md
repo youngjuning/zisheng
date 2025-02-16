@@ -1,15 +1,15 @@
-# @zisheng/eslint-config-react
+# @youngjuning/eslint-config-react
 
 ## Install
 
 ```sh
-yarn add -D eslint prettier @zisheng/eslint-config-react @zisheng/prettier-config lint-staged yorkie
+yarn add -D eslint prettier @youngjuning/eslint-config-react @youngjuning/prettier-config lint-staged yorkie
 ```
 
 ## 自动配置
 
 ```sh
-yarn create @zisheng/create-coding-style
+yarn create @youngjuning/create-coding-style
 # 类型选择 react
 ```
 
@@ -22,14 +22,14 @@ yarn create @zisheng/create-coding-style
 ```js
 module.exports = {
   root: true,
-  extends: ['@zisheng/eslint-config-react'],
+  extends: ['@youngjuning/eslint-config-react'],
 };
 ```
 
 ### .prettierrc.js
 
 ```js
-module.exports = require('@zisheng/prettier-config');
+module.exports = require('@youngjuning/prettier-config');
 ```
 
 ### .editorconfig

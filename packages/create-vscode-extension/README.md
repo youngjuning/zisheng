@@ -1,22 +1,22 @@
-# @zisheng/create-vscode-extension
+# @youngjuning/create-vscode-extension
 
-zisheng's vscode extension template.
+youngjuning's vscode extension template.
 
 ## 随用随走
 
 ```sh
-$ npx @zisheng/create-vscode-extension
+$ npx @youngjuning/create-vscode-extension
 # 或者
-$ npm init @zisheng/create-vscode-extension
+$ npm init @youngjuning/create-vscode-extension
 # 或者
-$ yarn create @zisheng/create-vscode-extension
+$ yarn create @youngjuning/create-vscode-extension
 ```
 
 ## 全局安装
 
 ```sh
 # 安装
-$ npm install @zisheng/create-vscode-extension -g
+$ npm install @youngjuning/create-vscode-extension -g
 # 使用
 $ create-vscode-extension
 ```
@@ -35,8 +35,8 @@ $ create-vscode-extension
 
 ## 推荐工具
 
-- [@zisheng/vscode-utils](https://github.com/youngjuning/zisheng/tree/main/packages/vscode-utils)：vscode 扩展开发相关 utils
-- [@zisheng/vscode-channel](https://github.com/youngjuning/zisheng/tree/main/packages/vscode-channel)：vscode 和 webview 通信的 channel
+- [@youngjuning/vscode-utils](https://github.com/youngjuning/youngjuning/tree/main/packages/vscode-utils)：vscode 扩展开发相关 utils
+- [@youngjuning/vscode-channel](https://github.com/youngjuning/youngjuning/tree/main/packages/vscode-channel)：vscode 和 webview 通信的 channel
 - [vscode-nls-i18n](https://www.npmjs.com/package/vscode-nls-i18n)：支持 vscode i18n 的库
 - [axios 简单封装](https://github.com/youngjuning/juejin-me/blob/main/src/utils/axios.ts)
 

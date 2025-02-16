@@ -1,15 +1,15 @@
-# @zisheng/eslint-config-base
+# @youngjuning/eslint-config-base
 
 ## Install
 
 ```sh
-$ yarn add -D @zisheng/eslint-config-typescript eslint prettier typescript @zisheng/prettier-config lint-staged yorkie
+$ yarn add -D @youngjuning/eslint-config-typescript eslint prettier typescript @youngjuning/prettier-config lint-staged yorkie
 ```
 
 ## 自动配置
 
 ```sh
-yarn create @zisheng/create-coding-style
+yarn create @youngjuning/create-coding-style
 # 类型选择 typescript
 ```
 
@@ -22,14 +22,14 @@ yarn create @zisheng/create-coding-style
 ```js
 module.exports = {
   root: true,
-  extends: ['@zisheng/eslint-config-typescript'],
+  extends: ['@youngjuning/eslint-config-typescript'],
 };
 ```
 
 ### .prettierrc.js
 
 ```js
-module.exports = require('@zisheng/prettier-config');
+module.exports = require('@youngjuning/prettier-config');
 ```
 
 ### .editorconfig

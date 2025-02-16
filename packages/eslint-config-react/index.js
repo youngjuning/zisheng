@@ -13,8 +13,8 @@ module.exports = {
         ecmaVersion: 2020,
       },
       rules: {
-        ...require('@zisheng/eslint-rules').javascript,
-        ...require('@zisheng/eslint-rules').javascriptReact,
+        ...require('@youngjuning/eslint-rules').javascript,
+        ...require('@youngjuning/eslint-rules').javascriptReact,
       },
       settings: {
         react: {

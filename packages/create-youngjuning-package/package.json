@@ -1,7 +1,7 @@
 {
-  "name": "create-zisheng-package",
+  "name": "create-youngjuning-package",
   "version": "1.0.0",
-  "description": "Create zisheng package",
+  "description": "Create youngjuning package",
   "keywords": [
     "yarn-create",
     "npm-init",
@@ -14,8 +14,8 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
-    "create-zisheng-package": "./bin/cli.js",
-    "clp": "./bin/cli.js"
+    "create-youngjuning-package": "./bin/cli.js",
+    "cyp": "./bin/cli.js"
   },
   "scripts": {
     "prebuild": "rimraf lib",
@@ -24,8 +24,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngjuning/zisheng.git",
-    "directory": "packages/create-zisheng-package"
+    "url": "git+https://github.com/youngjuning/youngjuning.git",
+    "directory": "packages/create-youngjuning-package"
   },
   "author": {
     "name": "紫升",
@@ -34,12 +34,12 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/youngjuning/zisheng/issues"
+    "url": "https://github.com/youngjuning/youngjuning/issues"
   },
-  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/create-zisheng-package#readme",
+  "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/create-youngjuning-package#readme",
   "dependencies": {
-    "@zisheng/node": "^1.0.0",
-    "@zisheng/template-generator": "^1.0.0",
+    "@youngjuning/node": "^1.0.0",
+    "@youngjuning/template-generator": "^1.0.0",
     "chalk": "^4.1.1",
     "commander": "^8.0.0",
     "execa": "^5.1.1",
@@ -52,5 +52,6 @@
     "@types/fs-extra": "^9.0.12",
     "@types/inquirer": "^7.3.3",
     "@types/ora": "^3.2.0"
-  }
+  },
+  "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

@@ -82,10 +82,10 @@ importers:
 
   packages/create-lerna-app:
     dependencies:
-      '@zisheng/node':
+      '@youngjuning/node':
         specifier: ^1.0.0
         version: link:../node
-      '@zisheng/template-generator':
+      '@youngjuning/template-generator':
         specifier: ^1.0.0
         version: link:../template-generator
       chalk:
@@ -122,10 +122,10 @@ importers:
 
   packages/create-vscode-extension:
     dependencies:
-      '@zisheng/node':
+      '@youngjuning/node':
         specifier: ^1.0.0
         version: link:../node
-      '@zisheng/template-generator':
+      '@youngjuning/template-generator':
         specifier: ^1.0.0
         version: link:../template-generator
       chalk:
@@ -162,10 +162,10 @@ importers:
 
   packages/create-vscode-preview:
     dependencies:
-      '@zisheng/node':
+      '@youngjuning/node':
         specifier: ^1.0.0
         version: link:../node
-      '@zisheng/template-generator':
+      '@youngjuning/template-generator':
         specifier: ^1.0.0
         version: link:../template-generator
       chalk:
@@ -202,10 +202,10 @@ importers:
 
   packages/create-vscode-webview:
     dependencies:
-      '@zisheng/node':
+      '@youngjuning/node':
         specifier: ^1.0.0
         version: link:../node
-      '@zisheng/template-generator':
+      '@youngjuning/template-generator':
         specifier: ^1.0.0
         version: link:../template-generator
       chalk:
@@ -240,12 +240,12 @@ importers:
         specifier: ^3.2.0
         version: 3.2.0
 
-  packages/create-zisheng-package:
+  packages/create-youngjuning-package:
     dependencies:
-      '@zisheng/node':
+      '@youngjuning/node':
         specifier: ^1.0.0
         version: link:../node
-      '@zisheng/template-generator':
+      '@youngjuning/template-generator':
         specifier: ^1.0.0
         version: link:../template-generator
       chalk:
@@ -285,7 +285,7 @@ importers:
       '@rushstack/eslint-patch':
         specifier: ^1.0.6
         version: 1.10.5
-      '@zisheng/eslint-rules':
+      '@youngjuning/eslint-rules':
         specifier: ^1.0.0
         version: link:../eslint-rules
       eslint:
@@ -312,7 +312,7 @@ importers:
       '@rushstack/eslint-patch':
         specifier: ^1.0.6
         version: 1.10.5
-      '@zisheng/eslint-rules':
+      '@youngjuning/eslint-rules':
         specifier: ^1.0.0
         version: link:../eslint-rules
       eslint:
@@ -345,7 +345,7 @@ importers:
 
   packages/eslint-config-react-native:
     dependencies:
-      '@zisheng/eslint-config-react-typescript':
+      '@youngjuning/eslint-config-react-typescript':
         specifier: ^1.0.0
         version: link:../eslint-config-react-typescript
       eslint-plugin-react-native:
@@ -363,7 +363,7 @@ importers:
       '@typescript-eslint/parser':
         specifier: ^5.0.0
         version: 5.62.0(eslint@7.32.0)(typescript@4.9.5)
-      '@zisheng/eslint-config-react':
+      '@youngjuning/eslint-config-react':
         specifier: ^1.0.0
         version: link:../eslint-config-react
       eslint-import-resolver-typescript:
@@ -381,7 +381,7 @@ importers:
       '@typescript-eslint/parser':
         specifier: ^5.0.0
         version: 5.62.0(eslint@7.32.0)(typescript@4.9.5)
-      '@zisheng/eslint-config-base':
+      '@youngjuning/eslint-config-base':
         specifier: ^1.0.0
         version: link:../eslint-config-base
       eslint-import-resolver-typescript:
