@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/eslint-config-react-native",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "youngjuning's react eslint config",
   "keywords": [
     "youngjuning",
@@ -32,7 +32,7 @@
     "url": "https://github.com/youngjuning/youngjuning/issues"
   },
   "dependencies": {
-    "@youngjuning/eslint-config-react-typescript": "^1.0.0",
+    "@youngjuning/eslint-config-react-typescript": "^2.0.0",
     "eslint-plugin-react-native": "^3.11.0",
     "metro-react-native-babel-preset": "^0.66.2"
   },

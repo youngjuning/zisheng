@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/create-vscode-extension",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "youngjuning's vscode extension template.",
   "keywords": [
     "vscode",
@@ -40,8 +40,8 @@
   },
   "homepage": "https://github.com/youngjuning/youngjuning/tree/main/packages/create-vscode-extension#readme",
   "dependencies": {
-    "@youngjuning/node": "^1.0.0",
-    "@youngjuning/template-generator": "^1.0.0",
+    "@youngjuning/node": "^2.0.0",
+    "@youngjuning/template-generator": "^2.0.0",
     "chalk": "^4.1.1",
     "commander": "^8.0.0",
     "execa": "^5.1.1",

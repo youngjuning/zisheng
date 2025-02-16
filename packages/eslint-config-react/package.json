@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/eslint-config-react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "youngjuning's react eslint config",
   "keywords": [
     "youngjuning",
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@rushstack/eslint-patch": "^1.0.6",
-    "@youngjuning/eslint-rules": "^1.0.0",
+    "@youngjuning/eslint-rules": "^2.0.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.23.4",

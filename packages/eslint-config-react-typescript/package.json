@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/eslint-config-react-typescript",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "youngjuning's react typescript eslint config",
   "keywords": [
     "youngjuning",
@@ -34,7 +34,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
-    "@youngjuning/eslint-config-react": "^1.0.0",
+    "@youngjuning/eslint-config-react": "^2.0.0",
     "eslint-import-resolver-typescript": "^2.5.0"
   },
   "peerDependencies": {
