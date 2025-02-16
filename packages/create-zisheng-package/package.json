@@ -38,8 +38,8 @@
   },
   "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/create-zisheng-package#readme",
   "dependencies": {
-    "@zisheng/node": "^2.2.1",
-    "@zisheng/template-generator": "^2.2.1",
+    "@zisheng/node": "^1.0.0",
+    "@zisheng/template-generator": "^1.0.0",
     "chalk": "^4.1.1",
     "commander": "^8.0.0",
     "execa": "^5.1.1",
