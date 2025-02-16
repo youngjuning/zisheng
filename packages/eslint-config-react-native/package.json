@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/eslint-config-react-native",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "youngjuning's react eslint config",
   "keywords": [
     "youngjuning",
@@ -32,9 +32,9 @@
     "url": "https://github.com/youngjuning/youngjuning/issues"
   },
   "dependencies": {
+    "@rushstack/eslint-patch": "^1.0.6",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "@rushstack/eslint-patch": "^1.0.6"
+    "eslint-plugin-prettier": "^3.4.0"
   },
   "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }

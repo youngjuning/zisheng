@@ -345,6 +345,9 @@ importers:
 
   packages/eslint-config-react-native:
     dependencies:
+      '@rushstack/eslint-patch':
+        specifier: ^1.0.6
+        version: 1.10.5
       eslint-config-prettier:
         specifier: ^8.3.0
         version: 8.10.0(eslint@7.32.0)

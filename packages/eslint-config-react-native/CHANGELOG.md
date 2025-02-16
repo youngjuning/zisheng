@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.2](https://github.com/youngjuning/youngjuning/compare/@youngjuning/eslint-config-react-native@2.1.1...@youngjuning/eslint-config-react-native@2.1.2) (2025-02-16)
+
+
+### Bug Fixes
+
+* add @rushstack/eslint-patch ([bea12f8](https://github.com/youngjuning/youngjuning/commit/bea12f80e7b50620043da0e2a1863394bb3a0e79))
+
+
+
+
+
 ## [2.1.1](https://github.com/youngjuning/youngjuning/compare/@youngjuning/eslint-config-react-native@2.1.0...@youngjuning/eslint-config-react-native@2.1.1) (2025-02-16)
 
 
