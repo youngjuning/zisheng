@@ -1,6 +1,6 @@
 {
   "name": "@zisheng/create-commitlint",
-  "version": "2.2.0",
+  "version": "1.0.0",
   "description": "create commitlint config in your project",
   "keywords": [
     "zisheng"
