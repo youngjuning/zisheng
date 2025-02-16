@@ -1,0 +1,49 @@
+{
+  "name": "@zisheng/eslint-config-react",
+  "version": "1.0.0",
+  "description": "zisheng's react eslint config",
+  "keywords": [
+    "zisheng",
+    "eslint-config",
+    "typescript",
+    "react"
+  ],
+  "author": {
+    "name": "紫升",
+    "email": "youngjuning@aliyun.com",
+    "url": "https://youngjuning.js.org"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "patch.js"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/eslint-config-react#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngjuning/zisheng.git",
+    "directory": "packages/eslint-config-react"
+  },
+  "bugs": {
+    "url": "https://github.com/youngjuning/zisheng/issues"
+  },
+  "dependencies": {
+    "@rushstack/eslint-patch": "^1.0.6",
+    "@zisheng/eslint-rules": "^2.2.1",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2"
+  }
+}

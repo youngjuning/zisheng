@@ -1,0 +1,39 @@
+{
+  "name": "@zisheng/eslint-config-react-native",
+  "version": "1.0.0",
+  "description": "zisheng's react eslint config",
+  "keywords": [
+    "zisheng",
+    "eslint-config",
+    "typescript",
+    "react"
+  ],
+  "author": {
+    "name": "紫升",
+    "email": "youngjuning@aliyun.com",
+    "url": "https://youngjuning.js.org"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "patch.js"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/eslint-config-react-native#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngjuning/zisheng.git",
+    "directory": "packages/eslint-config-react-native"
+  },
+  "bugs": {
+    "url": "https://github.com/youngjuning/zisheng/issues"
+  },
+  "dependencies": {
+    "@zisheng/eslint-config-react-typescript": "^2.2.1",
+    "eslint-plugin-react-native": "^3.11.0",
+    "metro-react-native-babel-preset": "^0.66.2"
+  }
+}

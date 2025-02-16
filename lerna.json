@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "npmClient": "pnpm",
+  "ignoreChanges": ["ignored-file", "**/__tests__/**", "**/CHANGELOG.md"],
+  "noVerifyAccess": true,
+  "command": {
+    "publish": {
+      "registry": "https://registry.npmjs.org"
+    },
+    "version": {
+      "conventionalCommits": true,
+      "message": "chore(release): publish"
+    }
+  }
+}

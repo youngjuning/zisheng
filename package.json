@@ -1,0 +1,36 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@types/node": "^22.13.4",
+    "@types/react": "^17.0.15",
+    "@types/react-native": "^0.73.0",
+    "commitizen": "^4.2.4",
+    "commitlint-config-cz": "^0.13.2",
+    "cz-customizable": "^6.3.0",
+    "eslint": "^7.32.0",
+    "husky": "^9.1.7",
+    "lerna": "^8.1.9",
+    "lint-staged": "^11.1.1",
+    "prettier": "^2.3.2",
+    "react": "^17.0.2",
+    "react-native": "^0.77.1",
+    "rimraf": "^3.0.2",
+    "typescript": "^5.7.3"
+  },
+  "scripts": {
+    "commit": "cz",
+    "prebuild": "rimraf packages/*/lib",
+    "build": "lerna run build",
+    "prepublish-it": "yarn build",
+    "publish-it": "lerna publish",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "prepare": "husky"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "@zisheng/vscode-channel",
+  "version": "1.0.0",
+  "description": "vscode channel",
+  "keywords": [
+    "zisheng"
+  ],
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "prebuild": "rimraf lib",
+    "build": "tsc",
+    "dev": "yarn build -w"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/zisheng.git",
+    "directory": "packages/vscode-channel"
+  },
+  "author": {
+    "name": "紫升",
+    "email": "youngjuning@aliyun.com",
+    "url": "https://youngjuning.js.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/zisheng/issues"
+  },
+  "homepage": "https://github.com/youngjuning/zisheng/tree/main/packages/vscode-channel#readme",
+  "devDependencies": {
+    "@types/vscode": "^1.59.0",
+    "@types/vscode-webview": "^1.57.0"
+  },
+  "dependencies": {
+    "nanoid": "^3.1.25"
+  }
+}
