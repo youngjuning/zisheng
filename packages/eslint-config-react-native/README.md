@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-$ yarn add -D @youngjuning/eslint-config-react-native eslint prettier typescript @youngjuning/prettier-config lint-staged yorkie
+$ pnpm add -D @youngjuning/eslint-config-react-native eslint prettier typescript @youngjuning/prettier-config lint-staged yorkie
 ```
 
 ## 自动配置

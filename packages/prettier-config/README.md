@@ -5,7 +5,7 @@ youngjuning's prettier config
 ## Install
 
 ```sh
-$ yarn add @youngjuning/prettier-config -D
+$ pnpm add @youngjuning/prettier-config -D
 ```
 
 ## Usage

@@ -11,7 +11,7 @@ $ npm install @youngjuning/template-generator
 OR
 
 ```sh
-$ yarn add @youngjuning/template-generator
+$ pnpm add @youngjuning/template-generator
 ```
 
 ## Usage

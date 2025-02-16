@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-yarn add -D eslint prettier @youngjuning/eslint-config-react @youngjuning/prettier-config lint-staged yorkie
+pnpm add -D eslint prettier @youngjuning/eslint-config-react @youngjuning/prettier-config lint-staged yorkie
 ```
 
 ## 自动配置

@@ -65,7 +65,7 @@ const init = async () => {
   fs.writeFileSync(`${projectDir}/.eslintrc.js`, eslintConfig);
   // 安装依赖
   execa.commandSync(
-    `yarn add commitizen -D -W eslint prettier @youngjuning/eslint-config-${eslintType} @youngjuning/prettier-config lint-staged yorkie`,
+    `pnpm add commitizen -D -W eslint prettier @youngjuning/eslint-config-${eslintType} @youngjuning/prettier-config lint-staged yorkie`,
     {
       shell: true,
       stdout: 'inherit',
@@ -73,7 +73,7 @@ const init = async () => {
     }
   );
   if (eslintType.indexOf('typescript') !== -1) {
-    execa.commandSync(`yarn add commitizen -D -W typescript`, {
+    execa.commandSync(`pnpm add commitizen -D -W typescript`, {
       shell: true,
       stdout: 'inherit',
       stderr: 'inherit',

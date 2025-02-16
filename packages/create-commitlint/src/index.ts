@@ -39,7 +39,7 @@ const init = () => {
 
   fs.writeFileSync(`${projectDir}/package.json`, JSON.stringify(config));
   execa.commandSync(
-    'yarn add commitizen cz-customizable @commitlint/cli commitlint-config-cz yorkie -D -W',
+    'pnpm add commitizen cz-customizable @commitlint/cli commitlint-config-cz yorkie -D -W',
     {
       shell: true,
       stdout: 'inherit',
