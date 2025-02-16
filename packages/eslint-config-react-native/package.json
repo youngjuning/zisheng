@@ -32,7 +32,7 @@
     "url": "https://github.com/youngjuning/youngjuning/issues"
   },
   "dependencies": {
-    "@react-native/eslint-config": "0.77.0"
+    "@react-native/eslint-config": "^0.77.0"
   },
   "gitHead": "f692b039f8f9a75d824c67b47b82855b7e03ac58"
 }
