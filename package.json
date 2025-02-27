@@ -23,8 +23,8 @@
     "commit": "cz",
     "prebuild": "rimraf packages/*/lib",
     "build": "lerna run build",
-    "prepublish-it": "yarn build",
-    "publish-it": "lerna publish",
+    "prepublish": "yarn build",
+    "publish": "lerna publish",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
     "prepare": "husky"
   },
