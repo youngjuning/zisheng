@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/create-commitlint",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "create commitlint config in your project",
   "keywords": [
     "youngjuning"
