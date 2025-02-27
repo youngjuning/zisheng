@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/create-vscode-preview",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "youngjuning's vscode preview extension template.",
   "keywords": [
     "vscode",

@@ -364,7 +364,7 @@ importers:
         specifier: ^5.0.0
         version: 5.62.0(eslint@7.32.0)(typescript@4.9.5)
       '@youngjuning/eslint-config-react':
-        specifier: ^2.0.0
+        specifier: ^2.0.1
         version: link:../eslint-config-react
       eslint-import-resolver-typescript:
         specifier: ^2.5.0
@@ -382,7 +382,7 @@ importers:
         specifier: ^5.0.0
         version: 5.62.0(eslint@7.32.0)(typescript@4.9.5)
       '@youngjuning/eslint-config-base':
-        specifier: ^2.0.0
+        specifier: ^2.0.1
         version: link:../eslint-config-base
       eslint-import-resolver-typescript:
         specifier: ^2.5.0
