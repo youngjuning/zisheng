@@ -6,10 +6,6 @@
 
 ```sh
 $ npx @youngjuning/create-vscode-webview <projectName>
-# 或者
-$ npm init @youngjuning/vscode-webview <projectName>
-# 或者
-$ yarn create @youngjuning/vscode-webview <projectName>
 ```
 
 ## 全局安装

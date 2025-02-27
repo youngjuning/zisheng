@@ -4,10 +4,6 @@
 
 ```sh
 $ npx create-youngjuning-package <packageName>
-# or
-$ npm init youngjuning-package <packageName>
-# or
-$ yarn create youngjuning-package <packageName>
 ```
 
 ## Install before Usage

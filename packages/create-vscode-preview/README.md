@@ -6,10 +6,6 @@ youngjuning's vscode preview extension template.
 
 ```sh
 $ npx @youngjuning/create-vscode-preview
-# 或者
-$ npm init @youngjuning/create-vscode-preview
-# 或者
-$ yarn create @youngjuning/create-vscode-preview
 ```
 
 ## 全局安装

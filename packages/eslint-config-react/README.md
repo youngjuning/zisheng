@@ -9,7 +9,7 @@ pnpm add -D eslint prettier @youngjuning/eslint-config-react @youngjuning/pretti
 ## 自动配置
 
 ```sh
-yarn create @youngjuning/create-coding-style
+npx @youngjuning/create-coding-style
 # 类型选择 react
 ```
 

@@ -9,7 +9,7 @@ pnpm add -D @youngjuning/eslint-config-react-typescript eslint prettier typescri
 ## 自动配置
 
 ```sh
-yarn create @youngjuning/create-coding-style
+npx @youngjuning/create-coding-style
 # 类型选择 react-typescript
 ```
 

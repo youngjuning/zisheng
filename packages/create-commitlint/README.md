@@ -4,10 +4,6 @@
 
 ```sh
 $ npx @youngjuning/create-commitlint
-# or
-$ npm init @youngjuning/commitlint
-# or
-$ yarn create @youngjuning/commitlint
 ```
 
 ## Install before Usage

@@ -4,10 +4,6 @@
 
 ```sh
 $ npx @youngjuning/create-lerna-app <projectName>
-# or
-$ npm init @youngjuning/lerna-app <projectName>
-# or
-$ yarn create @youngjuning/lerna-app <projectName>
 ```
 
 ## Install before Usage

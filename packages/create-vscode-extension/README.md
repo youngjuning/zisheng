@@ -6,10 +6,6 @@ youngjuning's vscode extension template.
 
 ```sh
 $ npx @youngjuning/create-vscode-extension
-# 或者
-$ npm init @youngjuning/create-vscode-extension
-# 或者
-$ yarn create @youngjuning/create-vscode-extension
 ```
 
 ## 全局安装

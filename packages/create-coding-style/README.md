@@ -4,10 +4,6 @@
 
 ```sh
 $ npx @youngjuning/create-coding-style
-# or
-$ npm init @youngjuning/create-coding-style
-# or
-$ yarn create @youngjuning/coding-style
 ```
 
 ## Install before Usage
